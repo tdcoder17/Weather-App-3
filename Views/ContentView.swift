@@ -32,5 +32,5 @@ struct ContentView: View {
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
-        }//Test
+        }
 }//end of struct
